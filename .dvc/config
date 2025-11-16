@@ -1,0 +1,4 @@
+[core]
+    remote = pikaremote
+['remote "pikaremote"']
+    url = gs://mlflow-our-vigil-473719-c2/mlflowremote
